@@ -1,4 +1,4 @@
 CookiesNCream :heart:
 =======================
 This is the official web site of CookiesNCream.
-Copyright (c) 2014 CookiesNCream.
+Copyright (c) 2014 CookiesNCream. All Rights Reserved.
