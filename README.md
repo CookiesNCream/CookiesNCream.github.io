@@ -1,12 +1,14 @@
 # CookiesNCream :cookie: :ice_cream:
 
-This is the official web site of CookiesNCream.
-Made with the :heart:.
-© 2014 CookiesNCream. All Rights Reserved.
+This is the official web site of CookiesNCream. Made with the :heart:.
 
 # Motivation
 
 The making of CookiesNCream.
+
+# Tech Stack
+
+[HTML5 Hackform Tool](https://cookiesncream.github.io/h5ht)
 
 # License
 
